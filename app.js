@@ -1,5 +1,6 @@
 window.onload = function () { //INICIO
 //SE USA LET PORQUE VARIA - PREGUNTA EN PROMPT
+alert("Bienvenido a edades y etapas");
  let edad = prompt("¿Qué edad tienes? Ingresa tu respuesta en número"); 
 
 //LO ACEPTADO PARA CADA CASO
